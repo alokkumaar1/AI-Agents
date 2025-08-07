@@ -1,4 +1,4 @@
-# Fullstack ChatGPT Clone
+# AI Agents
 
 A modern, fullstack ChatGPT clone built using cutting-edge web technologies and scalable architecture.
 
